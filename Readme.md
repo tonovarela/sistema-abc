@@ -14,4 +14,5 @@ Los estilos principales son de tipo externo y se localizan en el archivo `static
 ...
 ## Colaboradores
 Marco Antonio (tonovarela)
+
 Jesús Cabrera (jcabrera)
