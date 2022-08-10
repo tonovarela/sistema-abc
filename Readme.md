@@ -11,8 +11,10 @@ Los archivos para cada módulo se encuentran en la carpeta `modulos/` como por e
 Los estilos principales son de tipo externo y se localizan en el archivo `static/css/main.css`
 
 ## Notas:
-...
+  Validando cambios desde el owner tonovarela
 ## Colaboradores
 Marco Antonio (tonovarela)
 
 Jesús Cabrera (jcabrera)
+
+
