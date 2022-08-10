@@ -13,6 +13,7 @@ Los estilos principales son de tipo externo y se localizan en el archivo `static
 ## Notas:
   Validando cambios desde el owner tonovarela
   - Validando cambios a master desde colaborador jcabrera
+   ---
 ## Colaboradores
 Marco Antonio (tonovarela)
 
